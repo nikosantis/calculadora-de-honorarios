@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pregunta
+    url: https://github.com/nikosantis/calculadora-de-honorarios/discussions
+    about: Has preguntas y discute con otros miembros de la comunidad.

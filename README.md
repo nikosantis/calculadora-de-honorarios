@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Calculadora de Honorarios
 
-## Getting Started
+<p align="center">
+  <a aria-label="License" href="https://github.com/nikosantis/calculadora-de-honorarios/blob/main/LICENSE">
+    <img alt="" src="https://badgen.net/npm/license/swr">
+  </a>
+</p>
 
-First, run the development server:
+Este es un proyecto open source desarrollado con [Next.js](https://nextjs.org/) y desplegado en [Vercel Platform](https://vercel.com/).
+
+Para poder levantar localmente el proyecto se debe clonar el repositorio y usar los comandos de `yarn` o `npm`:
+
+Yarn
 
 ```bash
-npm run dev
-# or
+yarn
+```
+
+Y luego
+
+```bash
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O bien
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+npm
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+```bash
+npm install
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Y luego
 
-## Learn More
+```bash
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Nikolas Santis ([@nikosantis](https://github.com/nikosantis))
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The MIT License.
